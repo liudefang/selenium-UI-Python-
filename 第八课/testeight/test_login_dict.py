@@ -50,10 +50,10 @@ class login_case(unittest.TestCase):
     def test_login_01(self):
         '''理财师登录'''
         self.login_case(lcs_dic["username"], lcs_dic["password"], lcs_dic["exc_name"])
-
-    def test_login_02(self):
-        '''项目运维登录'''
-        self.login_case(yw_dic["username"], yw_dic["password"], yw_dic["exc_name"])
+    #
+    # def test_login_02(self):
+    #     '''项目运维登录'''
+    #     self.login_case(yw_dic["username"], yw_dic["password"], yw_dic["exc_name"])
 
 
 
