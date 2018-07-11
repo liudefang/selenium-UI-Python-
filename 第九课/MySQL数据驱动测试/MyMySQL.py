@@ -25,6 +25,7 @@ class MyMySQL(object):
         self.cur.execute("select Movie_Name,Movie_Property,Excpect_result from testdata; ")
         # 从查询预期取回所有查询结果
         datasTuple = self.cur.fetchall()
+
         return datasTuple
 
     def closeDatabase(self):

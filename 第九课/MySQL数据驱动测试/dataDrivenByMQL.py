@@ -43,6 +43,7 @@ def getTestDatas():
     testData = db.getDataFromDataBases()
     #关闭数据库连接
     db.closeDatabase()
+    # testData = self.db1_cursor.execute()
     return testData
 
 @ddt.ddt
@@ -52,7 +53,7 @@ class TestDemo(unittest.TestCase):
 
         self.driver = webdriver.Chrome(executable_path="E:\\Python36\\chromedriver")
 
-    @ddt.data(*getTestDatas())
+    @ddt.data(* getTestDatas())
     def test_dataDrivenByFile(self, data):
         username, password, expectData = tuple(data)
 
