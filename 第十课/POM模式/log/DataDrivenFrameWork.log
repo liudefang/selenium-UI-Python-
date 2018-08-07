@@ -1276,3 +1276,48 @@ AttributeError: 'NoneType' object has no attribute 'page_source'
 2018-07-11 11:06:11 CaseLoginTest.py[line:48] INFO 登录'defang1',期望'德芳理财',成功
 2018-07-11 11:06:11 remote_connection.py[line:486] DEBUG DELETE http://127.0.0.1:43302/session/9df242a3d9088a8574a16aac7644cc9a {"sessionId": "9df242a3d9088a8574a16aac7644cc9a"}
 2018-07-11 11:06:11 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:16 browser_engine.py[line:31] INFO 选择的浏览器是:Chrome
+2018-07-12 17:59:16 browser_engine.py[line:33] INFO 测试的服务器地址是:https://qa1-erp.jfz.com
+2018-07-12 17:59:19 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2018-07-12 17:59:22 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:22 browser_engine.py[line:40] INFO Chrome 浏览器已经启动
+2018-07-12 17:59:22 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/url {"url": "https://qa1-erp.jfz.com", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:25 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:25 browser_engine.py[line:46] INFO 打开的URL地址是:https://qa1-erp.jfz.com
+2018-07-12 17:59:25 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/window/current/maximize {"windowHandle": "current", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:26 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:26 browser_engine.py[line:48] INFO 浏览器最大化
+2018-07-12 17:59:26 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/timeouts/implicit_wait {"ms": 10000.0, "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:26 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:26 browser_engine.py[line:50] INFO 等待10秒
+2018-07-12 17:59:26 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element {"using": "xpath", "value": "//*[@name='username']", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:26 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:26 remote_connection.py[line:486] DEBUG GET http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element/0.1643857917449698-1/text {"id": "0.1643857917449698-1", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:26 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:26 BasePage.py[line:60] INFO 找到了元素  成功xpath 该值为: //*[@name='username']
+2018-07-12 17:59:26 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element/0.1643857917449698-1/value {"text": "defang1", "value": ["d", "e", "f", "a", "n", "g", "1"], "id": "0.1643857917449698-1", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:26 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:26 BasePage.py[line:73] INFO 在输入框输入 defang1
+2018-07-12 17:59:26 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element {"using": "xpath", "value": "//*[@name='password']", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:26 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:26 remote_connection.py[line:486] DEBUG GET http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element/0.1643857917449698-2/text {"id": "0.1643857917449698-2", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:26 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:26 BasePage.py[line:60] INFO 找到了元素  成功xpath 该值为: //*[@name='password']
+2018-07-12 17:59:26 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element/0.1643857917449698-2/value {"text": "123", "value": ["1", "2", "3"], "id": "0.1643857917449698-2", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:27 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:27 BasePage.py[line:73] INFO 在输入框输入 123
+2018-07-12 17:59:27 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element {"using": "xpath", "value": "//*[@class='login-btn']", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:27 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:27 remote_connection.py[line:486] DEBUG GET http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element/0.1643857917449698-3/text {"id": "0.1643857917449698-3", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:27 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:27 BasePage.py[line:60] INFO 找到了元素 登录 成功xpath 该值为: //*[@class='login-btn']
+2018-07-12 17:59:27 remote_connection.py[line:486] DEBUG POST http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/element/0.1643857917449698-3/click {"id": "0.1643857917449698-3", "sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:27 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:27 BasePage.py[line:81] INFO 点击该按钮成功
+2018-07-12 17:59:30 BasePage.py[line:104] INFO 等待 3 秒
+2018-07-12 17:59:30 remote_connection.py[line:486] DEBUG GET http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29/source {"sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:30 remote_connection.py[line:573] DEBUG Finished Request
+2018-07-12 17:59:30 BasePage.py[line:95] INFO 查找预期结果成功，德芳理财
+2018-07-12 17:59:30 CaseLoginTest.py[line:45] INFO 登录'defang1',期望'德芳理财',成功
+2018-07-12 17:59:30 remote_connection.py[line:486] DEBUG DELETE http://127.0.0.1:9453/session/63e900fb487e3bd83ca5697f9c492e29 {"sessionId": "63e900fb487e3bd83ca5697f9c492e29"}
+2018-07-12 17:59:30 remote_connection.py[line:573] DEBUG Finished Request
