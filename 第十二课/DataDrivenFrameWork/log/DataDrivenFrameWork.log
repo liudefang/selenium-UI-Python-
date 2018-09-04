@@ -1,0 +1,171 @@
+2018-09-03 17:00:26 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-03 17:01:07 TestAddCustomer.py[line:110] INFO contactNum = 0,isExecuteNum = 1
+2018-09-03 17:01:07 TestAddCustomer.py[line:120] INFO 用户<Cell 登录账号.B2>被设置为忽略执行！
+2018-09-03 17:02:36 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-03 17:03:17 TestAddCustomer.py[line:110] INFO contactNum = 0,isExecuteNum = 1
+2018-09-03 17:03:17 TestAddCustomer.py[line:120] INFO 用户<Cell 登录账号.B2>被设置为忽略执行！
+2018-09-03 17:06:44 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-03 17:07:31 TestAddCustomer.py[line:110] INFO contactNum = 0,isExecuteNum = 1
+2018-09-03 17:07:31 TestAddCustomer.py[line:123] INFO 数据驱动框架主程序发生异常，异常信息为：
+2018-09-03 17:07:31 TestAddCustomer.py[line:125] INFO None
+2018-09-03 17:10:05 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-03 17:10:51 TestAddCustomer.py[line:110] INFO contactNum = 1,isExecuteNum = 1
+2018-09-03 17:10:51 TestAddCustomer.py[line:116] INFO 为用户defang1添加1个客户，测试通过！
+2018-09-03 17:10:51 TestAddCustomer.py[line:123] INFO 数据驱动框架主程序发生异常，异常信息为：
+2018-09-03 17:10:51 TestAddCustomer.py[line:125] INFO None
+2018-09-03 17:18:24 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-03 17:19:12 TestAddCustomer.py[line:110] INFO contactNum = 1,isExecuteNum = 1
+2018-09-03 17:19:12 TestAddCustomer.py[line:116] INFO 为用户defang1添加1个客户，测试通过！
+2018-09-03 17:19:12 TestAddCustomer.py[line:120] INFO 用户<Cell 登录账号.B2>被设置为忽略执行！
+2018-09-03 17:34:16 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-03 17:34:58 TestAddCustomer.py[line:112] INFO 客户李四被忽略执行
+2018-09-03 17:34:58 TestAddCustomer.py[line:114] INFO contactNum = 0,isExecuteNum = 1
+2018-09-03 17:34:58 TestAddCustomer.py[line:126] INFO 用户<Cell 登录账号.B3>被设置为忽略执行！
+2018-09-04 08:36:40 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 08:37:24 TestAddCustomer.py[line:94] INFO 添加客户 13512345661 成功
+2018-09-04 08:37:24 TestAddCustomer.py[line:104] INFO 断言关键字 李四 失败
+2018-09-04 08:37:24 TestAddCustomer.py[line:112] INFO 客户13512345661被忽略执行
+2018-09-04 08:37:24 TestAddCustomer.py[line:114] INFO contactNum = 0,isExecuteNum = 1
+2018-09-04 08:37:24 TestAddCustomer.py[line:122] INFO 为用户defang1添加0个客户，测试通过！
+2018-09-04 08:37:24 TestAddCustomer.py[line:126] INFO 用户defang2被设置为忽略执行！
+2018-09-04 08:51:58 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 08:52:40 TestAddCustomer.py[line:94] INFO 添加客户 13512345660 成功
+2018-09-04 08:52:43 TestAddCustomer.py[line:110] INFO 断言关键字李四成功
+2018-09-04 08:52:43 TestAddCustomer.py[line:112] INFO 客户13512345660被忽略执行
+2018-09-04 08:52:43 TestAddCustomer.py[line:114] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 08:52:43 TestAddCustomer.py[line:122] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 08:52:43 TestAddCustomer.py[line:126] INFO 用户defang2被设置为忽略执行！
+2018-09-04 08:57:39 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 08:58:18 TestAddCustomer.py[line:94] INFO 添加客户 13512345659 成功
+2018-09-04 08:58:19 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 08:58:19 TestAddCustomer.py[line:112] INFO 客户13512345659被忽略执行
+2018-09-04 08:58:19 TestAddCustomer.py[line:114] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 08:58:19 TestAddCustomer.py[line:122] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 08:58:19 TestAddCustomer.py[line:126] INFO 用户defang2被设置为忽略执行！
+2018-09-04 09:10:09 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 09:10:57 TestAddCustomer.py[line:94] INFO 添加客户 13512345658 成功
+2018-09-04 09:10:58 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 09:10:58 TestAddCustomer.py[line:112] INFO 客户13512345658被忽略执行
+2018-09-04 09:10:58 TestAddCustomer.py[line:114] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 09:10:58 TestAddCustomer.py[line:122] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 09:11:01 TestAddCustomer.py[line:126] INFO 用户defang2被设置为忽略执行！
+2018-09-04 10:14:48 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 10:15:27 TestAddCustomer.py[line:94] INFO 添加客户 13512345657 成功
+2018-09-04 10:15:30 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 10:15:30 TestAddCustomer.py[line:115] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 10:15:30 TestAddCustomer.py[line:123] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 10:15:34 TestAddCustomer.py[line:127] INFO 用户defang2被设置为忽略执行！
+2018-09-04 10:16:58 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 10:17:40 TestAddCustomer.py[line:94] INFO 添加客户 13512345656 成功
+2018-09-04 10:17:43 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 10:17:43 TestAddCustomer.py[line:115] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 10:17:43 TestAddCustomer.py[line:123] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 10:17:46 TestAddCustomer.py[line:127] INFO 用户defang2被设置为忽略执行！
+2018-09-04 10:21:13 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 10:21:59 TestAddCustomer.py[line:94] INFO 添加客户 13512345655 成功
+2018-09-04 10:22:01 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 10:22:01 TestAddCustomer.py[line:113] INFO 客户13512345655被忽略执行
+2018-09-04 10:22:01 TestAddCustomer.py[line:115] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 10:22:01 TestAddCustomer.py[line:123] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 10:22:04 TestAddCustomer.py[line:127] INFO 用户defang2被设置为忽略执行！
+2018-09-04 10:31:31 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 10:32:10 TestAddCustomer.py[line:94] INFO 添加客户 13512345654 成功
+2018-09-04 10:32:12 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 10:32:12 TestAddCustomer.py[line:113] INFO 客户13512345654被忽略执行
+2018-09-04 10:32:12 TestAddCustomer.py[line:115] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 10:32:12 TestAddCustomer.py[line:123] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 10:32:15 TestAddCustomer.py[line:127] INFO 用户defang2被设置为忽略执行！
+2018-09-04 10:44:06 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 10:44:48 TestAddCustomer.py[line:94] INFO 添加客户 13512345653 成功
+2018-09-04 10:44:50 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 10:44:50 TestAddCustomer.py[line:111] INFO data_value:y
+2018-09-04 10:44:50 TestAddCustomer.py[line:113] INFO 客户13512345653被忽略执行
+2018-09-04 10:44:50 TestAddCustomer.py[line:115] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 10:44:50 TestAddCustomer.py[line:123] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 10:44:53 TestAddCustomer.py[line:127] INFO 用户defang2被设置为忽略执行！
+2018-09-04 10:58:13 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 10:58:54 TestAddCustomer.py[line:94] INFO 添加客户 13512345652 成功
+2018-09-04 10:58:56 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 10:58:56 TestAddCustomer.py[line:111] INFO data_value:y
+2018-09-04 10:58:56 TestAddCustomer.py[line:113] INFO id:1
+2018-09-04 10:58:56 TestAddCustomer.py[line:114] INFO data_value:n
+2018-09-04 10:58:56 TestAddCustomer.py[line:115] INFO 客户 13512345652 被忽略执行
+2018-09-04 10:58:56 TestAddCustomer.py[line:117] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 10:58:56 TestAddCustomer.py[line:125] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 10:58:59 TestAddCustomer.py[line:129] INFO 用户defang2被设置为忽略执行！
+2018-09-04 11:05:21 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 11:06:05 TestAddCustomer.py[line:94] INFO 添加客户 13512345651 成功
+2018-09-04 11:06:05 TestAddCustomer.py[line:104] INFO 断言关键字 李四 失败
+2018-09-04 11:06:05 TestAddCustomer.py[line:111] INFO data_value:y
+2018-09-04 11:06:05 TestAddCustomer.py[line:113] INFO id:1
+2018-09-04 11:06:05 TestAddCustomer.py[line:114] INFO data_value:n
+2018-09-04 11:06:05 TestAddCustomer.py[line:115] INFO 客户 13512345651 被忽略执行
+2018-09-04 11:06:05 TestAddCustomer.py[line:117] INFO contactNum = 0,isExecuteNum = 1
+2018-09-04 11:06:05 TestAddCustomer.py[line:125] INFO 为用户defang1添加1个客户，0个成功！
+2018-09-04 11:06:08 TestAddCustomer.py[line:129] INFO 用户defang2被设置为忽略执行！
+2018-09-04 11:16:41 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 11:17:25 TestAddCustomer.py[line:94] INFO 添加客户 13512345650 成功
+2018-09-04 11:17:25 TestAddCustomer.py[line:104] INFO 断言关键字 李四 失败
+2018-09-04 11:17:25 TestAddCustomer.py[line:111] INFO data_value:y
+2018-09-04 11:17:25 TestAddCustomer.py[line:113] INFO id:1
+2018-09-04 11:17:25 TestAddCustomer.py[line:114] INFO data_value:n
+2018-09-04 11:17:25 TestAddCustomer.py[line:115] INFO 客户 13512345650 被忽略执行
+2018-09-04 11:17:25 TestAddCustomer.py[line:116] INFO (<Cell 添加客户信息.E2>, <Cell 添加客户信息.E3>)
+2018-09-04 11:17:25 TestAddCustomer.py[line:117] INFO contactNum = 0,isExecuteNum = 1
+2018-09-04 11:17:25 TestAddCustomer.py[line:125] INFO 为用户defang1添加1个客户，0个成功！
+2018-09-04 11:17:28 TestAddCustomer.py[line:129] INFO 用户defang2被设置为忽略执行！
+2018-09-04 11:19:02 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 11:19:46 TestAddCustomer.py[line:94] INFO 添加客户 13512345649 成功
+2018-09-04 11:19:46 TestAddCustomer.py[line:104] INFO 断言关键字 李四 失败
+2018-09-04 11:19:46 TestAddCustomer.py[line:111] INFO id:0
+2018-09-04 11:19:46 TestAddCustomer.py[line:112] INFO data_value:y
+2018-09-04 11:19:46 TestAddCustomer.py[line:114] INFO id:1
+2018-09-04 11:19:46 TestAddCustomer.py[line:115] INFO data_value:n
+2018-09-04 11:19:46 TestAddCustomer.py[line:117] INFO (<Cell 添加客户信息.E2>, <Cell 添加客户信息.E3>)
+2018-09-04 11:19:46 TestAddCustomer.py[line:118] INFO contactNum = 0,isExecuteNum = 1
+2018-09-04 11:19:46 TestAddCustomer.py[line:126] INFO 为用户defang1添加1个客户，0个成功！
+2018-09-04 11:19:49 TestAddCustomer.py[line:130] INFO 用户defang2被设置为忽略执行！
+2018-09-04 11:23:42 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 11:24:25 TestAddCustomer.py[line:94] INFO 添加客户 13512345648 成功
+2018-09-04 11:24:26 TestAddCustomer.py[line:104] INFO 断言关键字 李四 失败
+2018-09-04 11:24:26 TestAddCustomer.py[line:111] INFO id:0
+2018-09-04 11:24:26 TestAddCustomer.py[line:112] INFO data_value:y
+2018-09-04 11:24:26 TestAddCustomer.py[line:115] INFO id:1
+2018-09-04 11:24:26 TestAddCustomer.py[line:116] INFO data_value:n
+2018-09-04 11:24:26 TestAddCustomer.py[line:117] INFO 客户 None 被忽略执行
+2018-09-04 11:24:26 TestAddCustomer.py[line:118] INFO (<Cell 添加客户信息.E2>, <Cell 添加客户信息.E3>)
+2018-09-04 11:24:26 TestAddCustomer.py[line:119] INFO contactNum = 0,isExecuteNum = 1
+2018-09-04 11:24:26 TestAddCustomer.py[line:134] INFO 数据驱动框架主程序发生异常，异常信息为：
+2018-09-04 11:24:26 TestAddCustomer.py[line:136] INFO None
+2018-09-04 13:40:44 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 13:41:27 TestAddCustomer.py[line:94] INFO 添加客户 13512345646 成功
+2018-09-04 13:41:27 TestAddCustomer.py[line:104] INFO 断言关键字 李四 失败
+2018-09-04 13:41:27 TestAddCustomer.py[line:111] INFO id:0
+2018-09-04 13:41:27 TestAddCustomer.py[line:112] INFO data_value:y
+2018-09-04 13:41:27 TestAddCustomer.py[line:115] INFO id:1
+2018-09-04 13:41:27 TestAddCustomer.py[line:116] INFO data_value:n
+2018-09-04 13:41:27 TestAddCustomer.py[line:117] INFO 客户 defang2 被忽略执行
+2018-09-04 13:41:27 TestAddCustomer.py[line:115] INFO id:2
+2018-09-04 13:41:27 TestAddCustomer.py[line:116] INFO data_value:None
+2018-09-04 13:41:27 TestAddCustomer.py[line:117] INFO 客户 None 被忽略执行
+2018-09-04 13:41:27 TestAddCustomer.py[line:119] INFO contactNum = 0,isExecuteNum = 1
+2018-09-04 13:41:28 TestAddCustomer.py[line:127] INFO 为用户defang1添加1个客户，0个成功！
+2018-09-04 13:41:31 TestAddCustomer.py[line:131] INFO 用户defang2被设置为忽略执行！
+2018-09-04 13:48:21 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 13:49:05 TestAddCustomer.py[line:94] INFO 添加客户 13512345645 成功
+2018-09-04 13:49:05 TestAddCustomer.py[line:104] INFO 断言关键字 李四 失败
+2018-09-04 13:49:05 TestAddCustomer.py[line:111] INFO id:0
+2018-09-04 13:49:05 TestAddCustomer.py[line:112] INFO data_value:y
+2018-09-04 13:49:05 TestAddCustomer.py[line:115] INFO id:1
+2018-09-04 13:49:05 TestAddCustomer.py[line:116] INFO data_value:n
+2018-09-04 13:49:05 TestAddCustomer.py[line:117] INFO 客户 张三 被忽略执行
+2018-09-04 13:49:05 TestAddCustomer.py[line:119] INFO contactNum = 0,isExecuteNum = 1
+2018-09-04 13:49:05 TestAddCustomer.py[line:127] INFO 为用户defang1添加1个客户，0个成功！
+2018-09-04 13:49:08 TestAddCustomer.py[line:131] INFO 用户defang2被设置为忽略执行！
+2018-09-04 13:51:10 TestAddCustomer.py[line:45] INFO 测试理财师添加客户信息执行开始
+2018-09-04 13:51:53 TestAddCustomer.py[line:94] INFO 添加客户 13512345644 成功
+2018-09-04 13:51:53 TestAddCustomer.py[line:110] INFO 断言关键字 李四 成功
+2018-09-04 13:51:53 TestAddCustomer.py[line:113] INFO 客户 张三 被忽略执行
+2018-09-04 13:51:53 TestAddCustomer.py[line:114] INFO contactNum = 1,isExecuteNum = 1
+2018-09-04 13:51:53 TestAddCustomer.py[line:122] INFO 为用户defang1添加1个客户，1个成功！
+2018-09-04 13:51:56 TestAddCustomer.py[line:126] INFO 用户defang2被设置为忽略执行！

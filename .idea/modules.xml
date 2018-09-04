@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ERP_selenium UI自动化(Python).iml" filepath="$PROJECT_DIR$/.idea/ERP_selenium UI自动化(Python).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webautotest/.idea/webautotest.iml" filepath="$PROJECT_DIR$/../webautotest/.idea/webautotest.iml" />
     </modules>
   </component>
 </project>

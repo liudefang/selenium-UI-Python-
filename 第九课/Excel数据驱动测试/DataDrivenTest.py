@@ -58,6 +58,8 @@ class TestDemo(unittest.TestCase):
             self.driver.find_element_by_xpath("//*[@name='username']").send_keys(username)
             self.driver.find_element_by_xpath("//*[@name='password']").send_keys(password)
 
+
+
             # 找到登录按钮，并单击
             self.driver.find_element_by_xpath("//*[@class='login-btn']").click()
             time.sleep(3)
