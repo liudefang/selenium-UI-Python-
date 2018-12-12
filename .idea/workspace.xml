@@ -2,39 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a11170-d928-4c13-9562-2f12a7ee39a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第十三课/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/action/PageAction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/action/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/config/VarConfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/log/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/testData/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/testScripts/TestErpApprovalflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/testScripts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/util/DirAndTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/util/ObjectMap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/util/WaitUtil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十三课/util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/RunTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/appModules/AddCustomerAction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/config/Logger.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/pageObject/CustomerPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/testData/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/testData/erp数据驱动自动化 - 副本 (2).xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/testData/erp数据驱动自动化 - 副本.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/testData/erp数据驱动自动化.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/testScripts/TestAddCustomer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/util/Log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/util/ParseExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/进程套接字/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/进程套接字/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/进程套接字/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWork/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/action/PageAction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/action/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/config/VarConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/testScripts/TestErpApprovalflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/testScripts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/DirAndTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/ObjectMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/WaitUtil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/RunTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/config/Logger.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/Log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十四课/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ERP_selenium UI自动化(Python).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ERP_selenium UI自动化(Python).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/config/PageElementLocator.ini" beforeDir="false" afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/config/PageElementLocator.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/config/VarConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/config/VarConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/action/PageAction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/action/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/config/VarConfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/log/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/testData/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/testData/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/util/DirAndTime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/util/ObjectMap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/util/WaitUtil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十三课/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/util/ParseExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/util/ParseExcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/action/PageAction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/action/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/config/VarConfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/testData/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/testScripts/TestErpApprovalflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/第十四课/testScripts/TestErpApprovalflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/util/DirAndTime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/util/ObjectMap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/util/ParseExcel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/util/WaitUtil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十四课/第十二课_自动化测试框架(数据驱动)-下.pptx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/.idea/Erp_KeyWordFrameWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/.idea/Erp_KeyWordFrameWork.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/action/PageAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/action/PageAction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/exceptionpictures/2018-1-24/16-14-27-311991.png" beforeDir="false" />
@@ -203,7 +213,11 @@
       <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/exceptionpictures/2018-2-2/15-33-34-503338.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/exceptionpictures/2018-2-2/15-36-30-577467.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/exceptionpictures/2018-2-2/15-37-06-120329.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testData/产品部_关键字驱动测试用例 - 副本 (2).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testData/产品部_关键字驱动测试用例 - 副本 (2).xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testData/关键字驱动测试用例 - 副本.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testData/关键字驱动测试用例 - 副本.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testData/关键字驱动测试用例.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testData/关键字驱动测试用例.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts/TestBuydetail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts/TestBuydetail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/ParseExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/ParseExcel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/WaitUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/WaitUtil.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KeyWordFrameWork/.idea/KeyWordFrameWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyWordFrameWork/.idea/KeyWordFrameWork.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KeyWordFrameWork/action/PageAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyWordFrameWork/action/PageAction.py" afterDir="false" />
@@ -232,17 +246,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$WaitUtil__1_.coverage" NAME="WaitUtil (1) Coverage Results" MODIFIED="1544089825111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$RunTest__1_.coverage" NAME="RunTest (1) Coverage Results" MODIFIED="1544608824290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十四课/KeyWorkFrameWork" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$client.coverage" NAME="client Coverage Results" MODIFIED="1538039101065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程套接字" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$WaitUtil.coverage" NAME="WaitUtil Coverage Results" MODIFIED="1543566238772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十三课/util" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$WaitUtil__2_.coverage" NAME="WaitUtil (2) Coverage Results" MODIFIED="1544090200427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十三课/KeyWorkFrameWork/util" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$TestErpApprovalflow__1_.coverage" NAME="TestErpApprovalflow (1) Coverage Results" MODIFIED="1544090425139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/testScripts" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$ParseConfigurationFile__1_.coverage" NAME="ParseConfigurationFile (1) Coverage Results" MODIFIED="1533814701606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/util" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$ParseExcel__2_.coverage" NAME="ParseExcel (2) Coverage Results" MODIFIED="1544498001671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/util" />
     <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$ParseConfigurationFile.coverage" NAME="ParseConfigurationFile Coverage Results" MODIFIED="1533637127488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/util" />
     <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$DirAndTime.coverage" NAME="DirAndTime Coverage Results" MODIFIED="1542975403929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十三课/util" />
     <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$server.coverage" NAME="server Coverage Results" MODIFIED="1538039057045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程套接字" />
-    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$TestErpApprovalflow.coverage" NAME="TestErpApprovalflow Coverage Results" MODIFIED="1543566854569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十三课/testScripts" />
-    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$client.coverage" NAME="client Coverage Results" MODIFIED="1538039101065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程套接字" />
-    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$WaitUtil.coverage" NAME="WaitUtil Coverage Results" MODIFIED="1543566238772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十三课/util" />
-    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$TestErpApprovalflow__1_.coverage" NAME="TestErpApprovalflow (1) Coverage Results" MODIFIED="1533815618052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/testScripts" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$TestErpApprovalflow.coverage" NAME="TestErpApprovalflow Coverage Results" MODIFIED="1544606148206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十四课/testScripts" />
     <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$main.coverage" NAME="main Coverage Results" MODIFIED="1536630976896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../webautotest/web_auto_test" />
-    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$ParseConfigurationFile__1_.coverage" NAME="ParseConfigurationFile (1) Coverage Results" MODIFIED="1533814701606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/util" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$ParseExcel__1_.coverage" NAME="ParseExcel (1) Coverage Results" MODIFIED="1544492771711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Erp_KeyWordFrameWork/util" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1544498793212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十四课/util" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$TestBuydetail.coverage" NAME="TestBuydetail Coverage Results" MODIFIED="1544605956092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十四课/testScripts" />
     <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$addcustomertest.coverage" NAME="addcustomertest Coverage Results" MODIFIED="1536028045579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二课/DataDrivenFrameWork" />
-    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1542941000826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Erp_KeyWordFrameWork" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$TestBuydetail__1_.coverage" NAME="TestBuydetail (1) Coverage Results" MODIFIED="1544608511671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts" />
+    <SUITE FILE_PATH="coverage/ERP_selenium_UI_Python_$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1544604662239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Erp_KeyWordFrameWork" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -251,23 +273,27 @@
     <session id="-1494162869">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="conf" value="11" />
+          <entry key="conf" value="13" />
           <entry key="html" value="2" />
           <entry key="ini" value="10" />
+          <entry key="log" value="1" />
           <entry key="png" value="1" />
           <entry key="properties" value="2" />
-          <entry key="py" value="167" />
+          <entry key="py" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -275,9 +301,9 @@
           <entry key="HTML" value="2" />
           <entry key="Image" value="1" />
           <entry key="Ini" value="10" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="PLAIN_TEXT" value="14" />
           <entry key="Properties" value="2" />
-          <entry key="Python" value="167" />
+          <entry key="Python" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -286,7 +312,7 @@
           <entry key="html" value="39" />
           <entry key="ini" value="527" />
           <entry key="properties" value="1" />
-          <entry key="py" value="8115" />
+          <entry key="py" value="14562" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -295,7 +321,7 @@
           <entry key="Ini" value="527" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="1" />
-          <entry key="Python" value="8115" />
+          <entry key="Python" value="14562" />
         </counts>
       </usages-collector>
     </session>
@@ -304,128 +330,109 @@
     <favorites_list name="ERP_selenium UI自动化(Python)" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts/TestBuydetail.py">
+        <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/RunTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-783">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#109#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/WaitUtil.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-              <folding>
-                <element signature="e#103#127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第十三课/util/WaitUtil.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="62" column="28" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="28" />
-              <folding>
-                <element signature="e#102#116#0" expanded="true" />
-                <marker date="1543544942858" expanded="true" signature="904:1326" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第十三课/action/PageAction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2179">
-              <caret line="170" column="21" selection-start-line="170" selection-start-column="21" selection-end-line="170" selection-end-column="21" />
-              <folding>
-                <element signature="e#104#115#0" expanded="true" />
-                <marker date="1543566571342" expanded="true" signature="1473:1478" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="1608:1613" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="1746:1751" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="1900:1905" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="2123:2128" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="2351:2356" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="2558:2563" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="2839:2844" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="2977:2982" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="3163:3168" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="3375:3380" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="4019:4024" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="4163:4168" ph="..." />
-                <marker date="1543566571342" expanded="true" signature="4845:5320" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/config/VarConfig.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="54" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第十三课/testScripts/TestErpApprovalflow.py">
+        <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/testScripts/TestErpApprovalflow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+            <state relative-caret-position="102">
+              <caret line="158" column="168" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="168" />
+              <folding>
+                <element signature="e#113#127#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第十三课/config/VarConfig.py">
+        <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/Log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding>
+                <element signature="e#108#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/action/PageAction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+              <folding>
+                <element signature="e#104#115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/ObjectMap.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第十四课/testScripts/TestErpApprovalflow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="158" selection-start-line="148" selection-start-column="12" selection-end-line="158" />
+              <folding>
+                <element signature="e#113#123#0" expanded="true" />
+                <marker date="1544606947459" expanded="true" signature="575:580" ph="..." />
+                <marker date="1544606947459" expanded="true" signature="1559:7005" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/config/Logger.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/ParseExcel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2970">
+              <caret line="110" selection-start-line="110" selection-end-line="130" selection-end-column="64" />
+              <folding>
+                <element signature="e#103#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/WaitUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1917">
+              <caret line="71" column="57" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="57" />
+              <folding>
+                <element signature="e#102#116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts/TestBuydetail.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第十三课/util/DirAndTime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" column="18" selection-start-line="10" selection-end-line="29" selection-end-column="18" />
-              <folding>
-                <element signature="e#105#120#0" expanded="true" />
-                <marker date="1542975479719" expanded="true" signature="228:233" ph="..." />
-                <marker date="1542975479719" expanded="true" signature="557:706" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWork/config/VarConfig.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/action/PageAction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="285" column="48" selection-start-line="285" selection-start-column="17" selection-end-line="285" selection-end-column="48" />
-              <folding>
-                <element signature="e#121#132#0" expanded="true" />
-              </folding>
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -445,10 +452,18 @@
       <find>李四</find>
       <find>getCellOfValue</find>
       <find>添加</find>
-      <find>switch_to_frame</find>
       <find>current_window_handle</find>
       <find>WebDriver</find>
+      <find>logging.info</find>
+      <find>writeCellCurrentTime</find>
+      <find>弹出</find>
+      <find>switch_to_frame</find>
+      <find>print</find>
     </findStrings>
+    <replaceStrings>
+      <replace>print</replace>
+      <replace>logging.info</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -456,26 +471,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/testScripts/te.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/testScripts/tt.html" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/util/ObjectMap.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/appModules/LoginAction.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/testScripts/TestErpApprovalflow.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/config/VarConfig.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/util/ParseConfigurationFile.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/pageObject/LoginPage.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWork/config/PageElementLocator.ini" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/util/ObjectMap.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/appModules/LoginAction.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/testScripts/TestErpApprovalflow.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/config/PageElementLocator.ini" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/config/VarConfig.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/util/ParseConfigurationFile.py" />
-        <option value="$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/pageObject/LoginPage.py" />
-        <option value="$PROJECT_DIR$/../webautotest/config/web_site/test.properties" />
-        <option value="$PROJECT_DIR$/第十二课/DataDrivenFrameWork/appModules/AddContactPersonAction.py" />
-        <option value="$PROJECT_DIR$/第十二课/DataDrivenFrameWork/appModules/ApprovalAction.py" />
-        <option value="$PROJECT_DIR$/第十二课/DataDrivenFrameWork/appModules/CustomerAction.py" />
         <option value="$PROJECT_DIR$/第十二课/DataDrivenFrameWork/RunTest.py" />
         <option value="$PROJECT_DIR$/第十二课/DataDrivenFrameWork/pageObject/ApprovalPage.py" />
         <option value="$PROJECT_DIR$/第十二课/DataDrivenFrameWork/appModules/LoginAction.py" />
@@ -504,6 +499,29 @@
         <option value="$PROJECT_DIR$/第十三课/config/VarConfig.py" />
         <option value="$PROJECT_DIR$/第十三课/action/PageAction.py" />
         <option value="$PROJECT_DIR$/第十三课/testScripts/TestErpApprovalflow.py" />
+        <option value="$PROJECT_DIR$/第十三课/util/ParseExcel.py" />
+        <option value="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/ObjectMap.py" />
+        <option value="$PROJECT_DIR$/第十三课/KeyWorkFrameWork/util/WaitUtil.py" />
+        <option value="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/DirAndTime.py" />
+        <option value="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/WaitUtil.py" />
+        <option value="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/config/VarConfig.py" />
+        <option value="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/action/PageAction.py" />
+        <option value="$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/testScripts/TestErpApprovalflow.py" />
+        <option value="$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/ParseExcel.py" />
+        <option value="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts/TestBuydetail.py" />
+        <option value="$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/util/ParseExcel.py" />
+        <option value="$PROJECT_DIR$/第十四课/config/VarConfig.py" />
+        <option value="$PROJECT_DIR$/第十四课/util/DirAndTime.py" />
+        <option value="$PROJECT_DIR$/第十四课/util/ParseExcel.py" />
+        <option value="$PROJECT_DIR$/第十四课/testScripts/TestErpApprovalflow.py" />
+        <option value="$PROJECT_DIR$/第十四课/testScripts/TestBuydetail.py" />
+        <option value="$PROJECT_DIR$/第十四课/action/PageAction.py" />
+        <option value="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/config/Logger.conf" />
+        <option value="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/DirAndTime.py" />
+        <option value="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/action/PageAction.py" />
+        <option value="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/testScripts/TestErpApprovalflow.py" />
+        <option value="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/RunTest.py" />
+        <option value="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/Log.py" />
       </list>
     </option>
   </component>
@@ -527,7 +545,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -538,36 +555,40 @@
             <path>
               <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
               <item name="ERP_selenium UI自动化(Python)" type="462c0819:PsiDirectoryNode" />
-              <item name="第六课" type="462c0819:PsiDirectoryNode" />
+              <item name="第十四课" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
               <item name="ERP_selenium UI自动化(Python)" type="462c0819:PsiDirectoryNode" />
-              <item name="第十三课" type="462c0819:PsiDirectoryNode" />
+              <item name="第十四课" type="462c0819:PsiDirectoryNode" />
+              <item name="KeyWorkFrameWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
               <item name="ERP_selenium UI自动化(Python)" type="462c0819:PsiDirectoryNode" />
-              <item name="第十三课" type="462c0819:PsiDirectoryNode" />
-              <item name="action" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ERP_selenium UI自动化(Python)" type="462c0819:PsiDirectoryNode" />
-              <item name="第十三课" type="462c0819:PsiDirectoryNode" />
+              <item name="第十四课" type="462c0819:PsiDirectoryNode" />
+              <item name="KeyWorkFrameWork" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
               <item name="ERP_selenium UI自动化(Python)" type="462c0819:PsiDirectoryNode" />
-              <item name="第十三课" type="462c0819:PsiDirectoryNode" />
+              <item name="第十四课" type="462c0819:PsiDirectoryNode" />
+              <item name="KeyWorkFrameWork" type="462c0819:PsiDirectoryNode" />
               <item name="testScripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
               <item name="ERP_selenium UI自动化(Python)" type="462c0819:PsiDirectoryNode" />
-              <item name="第十三课" type="462c0819:PsiDirectoryNode" />
+              <item name="第十四课" type="462c0819:PsiDirectoryNode" />
+              <item name="KeyWorkFrameWork" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ERP_selenium UI自动化(Python)" type="462c0819:PsiDirectoryNode" />
+              <item name="第十四课" type="462c0819:PsiDirectoryNode" />
+              <item name="testScripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
@@ -592,11 +613,26 @@
               <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
               <item name="Erp_KeyWordFrameWork" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautotest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautotest" type="462c0819:PsiDirectoryNode" />
+              <item name="publicpkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ERP_selenium UI自动化(Python)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautotest" type="462c0819:PsiDirectoryNode" />
+              <item name="web_auto_test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -615,11 +651,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十四课\KeyWorkFrameWork\util" />
+      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十四课\KeyWorkFrameWork\config" />
+      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十四课\testScripts" />
+      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十四课" />
       <recent name="E:\python\ERP_selenium UI自动化(Python)\第十二课\DataDrivenFrameWorkDemo\testScripts" />
-      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十二课\DataDrivenFrameWorkDemo\config" />
-      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十二课\DataDrivenFrameWorkDemo\util" />
-      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十二课\DataDrivenFrameWorkDemo" />
-      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十二课\DataDrivenFrameWorkDemo\appModules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十四课\KeyWorkFrameWork" />
+      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十三课\KeyWorkFrameWorkDemo" />
+      <recent name="E:\python\ERP_selenium UI自动化(Python)\第十三课\KeyWorkFrameWork" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -634,8 +675,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TestErpApprovalflow">
-    <configuration name="DirAndTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.RunTest (1)">
+    <configuration name="RunTest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ERP_selenium UI自动化(Python)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -643,12 +684,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十三课/util" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十四课/KeyWorkFrameWork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十三课/util/DirAndTime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十四课/KeyWorkFrameWork/RunTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -679,6 +720,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TestBuydetail (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Erp_KeyWordFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts/TestBuydetail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestBuydetail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ERP_selenium UI自动化(Python)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十四课/testScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十四课/testScripts/TestBuydetail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestErpApprovalflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ERP_selenium UI自动化(Python)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -687,56 +772,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十三课/testScripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十四课/testScripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十三课/testScripts/TestErpApprovalflow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="WaitUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ERP_selenium UI自动化(Python)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十三课/util" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十三课/util/WaitUtil.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ERP_selenium UI自动化(Python)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程套接字" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程套接字/client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十四课/testScripts/TestErpApprovalflow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -746,19 +787,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.client" />
-      <item itemvalue="Python.WaitUtil" />
       <item itemvalue="Python.TestErpApprovalflow" />
+      <item itemvalue="Python.TestBuydetail" />
       <item itemvalue="Python.RunTest" />
-      <item itemvalue="Python.DirAndTime" />
+      <item itemvalue="Python.RunTest (1)" />
+      <item itemvalue="Python.TestBuydetail (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RunTest (1)" />
+        <item itemvalue="Python.TestBuydetail (1)" />
         <item itemvalue="Python.TestErpApprovalflow" />
-        <item itemvalue="Python.WaitUtil" />
-        <item itemvalue="Python.DirAndTime" />
+        <item itemvalue="Python.TestBuydetail" />
         <item itemvalue="Python.RunTest" />
-        <item itemvalue="Python.client" />
       </list>
     </recent_temporary>
   </component>
@@ -775,20 +816,28 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.24891774" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.26298702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.23599137" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297362" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20725995" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290398" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.52224827" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5023981" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290398" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -849,180 +898,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWork/pageObject/CustomerPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="127" column="79" lean-forward="true" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/pageObject/CustomerPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="146" column="12" lean-forward="true" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/appModules/AddCustomerAction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/config/VarConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/config/PageElementLocator.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/util/Log.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../KeyWordFrameWork/exceptionpictures/2017-12-14/00-38-39-109694.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/config/Logger.conf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../webautotest/publicpkg/mail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../webautotest/web_auto_test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/进程套接字/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="15" column="36" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/进程套接字/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWork/testScripts/TestAddCustomer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="13" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWork/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWork/util/ObjectMap.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/util/ObjectMap.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/testScripts/TestErpApprovalflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/pageObject/LoginPage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWorkDemo/util/ParseConfigurationFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十课/POM模式/Util/Log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十课/POM模式/Util/browser_engine.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十课/POM模式/Case/CaseLoginTest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九课/Excel数据驱动测试/DataDrivenTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九课/Excel数据驱动测试/ExcelDataDrivenProject.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第八课/ddt数据驱动测试/DataTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1133" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第六课/testSix/DomecopeAndPaste.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWork/pageObject/LoginPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWork/appModules/LoginAction.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWork/config/PageElementLocator.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="53" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第六课/testSix/DomescrollInto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="45" selection-start-line="45" selection-end-line="45" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一课/DataDrivenFrameWork/testScripts/TestErpApprovalflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-392" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/testScripts/TestErpApprovalflow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-81" />
@@ -1040,45 +915,10 @@
         <state relative-caret-position="-195" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/KeyBoardUtil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-438" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/ObjectMap.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十三课/util/ObjectMap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/ParseExcel.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/DirAndTime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十三课/util/DirAndTime.py">
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWork/util/DirAndTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="29" column="18" selection-start-line="10" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="e#105#120#0" expanded="true" />
-            <marker date="1542975479719" expanded="true" signature="228:233" ph="..." />
-            <marker date="1542975479719" expanded="true" signature="557:706" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,9 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
           <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-          <folding>
-            <element signature="e#103#127#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1099,79 +936,290 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/config/VarConfig.py">
+    <entry file="file://$PROJECT_DIR$/第十三课/util/ParseExcel.py" />
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/action/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../KeyWordFrameWork/util/ParseExcel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="-2673" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWork/util/ObjectMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第十三课/config/VarConfig.py">
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/ObjectMap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        <state relative-caret-position="351">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts/TestBuydetail.py">
+    <entry file="file://E:/Python36/Lib/site-packages/selenium/webdriver/common/by.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-783">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#109#120#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="659">
+          <caret line="35" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/action/PageAction.py">
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWork/util/WaitUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/DirAndTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/util/WaitUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="51" column="79" selection-start-line="51" selection-start-column="79" selection-end-line="51" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/config/VarConfig.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="285" column="48" selection-start-line="285" selection-start-column="17" selection-end-line="285" selection-end-column="48" />
-          <folding>
-            <element signature="e#121#132#0" expanded="true" />
-          </folding>
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第十三课/util/WaitUtil.py">
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWork/config/VarConfig.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="62" column="28" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="28" />
-          <folding>
-            <element signature="e#102#116#0" expanded="true" />
-            <marker date="1543544942858" expanded="true" signature="904:1326" ph="..." />
-          </folding>
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第十三课/action/PageAction.py">
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWork/action/PageAction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2179">
+        <state relative-caret-position="4266">
           <caret line="170" column="21" selection-start-line="170" selection-start-column="21" selection-end-line="170" selection-end-column="21" />
-          <folding>
-            <element signature="e#104#115#0" expanded="true" />
-            <marker date="1543566571342" expanded="true" signature="1473:1478" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="1608:1613" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="1746:1751" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="1900:1905" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="2123:2128" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="2351:2356" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="2558:2563" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="2839:2844" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="2977:2982" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="3163:3168" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="3375:3380" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="4019:4024" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="4163:4168" ph="..." />
-            <marker date="1543566571342" expanded="true" signature="4845:5320" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/action/PageAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十三课/KeyWorkFrameWorkDemo/testScripts/TestErpApprovalflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWork/util/ParseExcel.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十二课/DataDrivenFrameWorkDemo/util/ParseExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="160" column="30" selection-start-line="160" selection-start-column="30" selection-end-line="160" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/Excel数据驱动测试/DataDrivenTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="57" column="45" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/Excel数据驱动测试/ExcelDataDrivenProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-367">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/config/VarConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="38" column="22" selection-start-line="18" selection-end-line="38" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第十三课/testScripts/TestErpApprovalflow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        <state relative-caret-position="469">
+          <caret line="29" column="97" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/DirAndTime.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/ParseExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="133" selection-start-line="133" selection-end-line="151" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/testScripts/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/ObjectMap.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/util/KeyBoardUtil.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/RunTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webautotest/publicpkg/globalvar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webautotest/publicpkg/seleniumutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3508">
+          <caret line="130" column="38" lean-forward="true" selection-start-line="121" selection-start-column="4" selection-end-line="130" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webautotest/web_auto_test/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3321" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webautotest/web_auto_test/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2754" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webautotest/web_auto_test/test_case_step.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="128" column="27" selection-start-line="128" selection-start-column="25" selection-end-line="128" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/action/PageAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4228">
+          <caret line="170" selection-start-line="170" selection-end-line="178" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/testScripts/TestBuydetail.py" />
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/config/VarConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/DirAndTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/ParseExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="110" selection-start-line="110" selection-end-line="130" selection-end-column="64" />
+          <folding>
+            <element signature="e#103#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/WaitUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1917">
+          <caret line="71" column="57" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="57" />
+          <folding>
+            <element signature="e#102#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/action/PageAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+          <folding>
+            <element signature="e#104#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/ObjectMap.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/testScripts/TestErpApprovalflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="158" selection-start-line="148" selection-start-column="12" selection-end-line="158" />
+          <folding>
+            <element signature="e#113#123#0" expanded="true" />
+            <marker date="1544606947459" expanded="true" signature="575:580" ph="..." />
+            <marker date="1544606947459" expanded="true" signature="1559:7005" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/config/Logger.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Erp_KeyWordFrameWork/testScripts/TestBuydetail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/RunTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/util/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <element signature="e#108#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十四课/KeyWorkFrameWork/testScripts/TestErpApprovalflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="158" column="168" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="168" />
+          <folding>
+            <element signature="e#113#127#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

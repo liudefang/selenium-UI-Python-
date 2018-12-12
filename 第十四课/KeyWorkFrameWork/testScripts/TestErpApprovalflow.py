@@ -2,6 +2,7 @@
 # @Time    : 2018/11/22 9:31
 # @Author  : mike.liu
 # @File    : TestErpApprovalflow.py
+import logging
 import sys
 import traceback
 from imp import reload
@@ -9,8 +10,11 @@ from imp import reload
 from legacy import xrange
 from openpyxl.compat import long
 
-from 第十四课.KeyWorkFrameWork.config.VarConfig import *
-from 第十四课.KeyWorkFrameWork.util.ParseExcel import ParseExcel
+from KeyWorkFrameWork.config.VarConfig import *
+from KeyWorkFrameWork.action.PageAction import *
+
+from KeyWorkFrameWork.util.Log import *
+from KeyWorkFrameWork.util.ParseExcel import ParseExcel
 
 # 设置此次测试环境
 reload(sys)
@@ -44,11 +48,11 @@ def writeTestResult(sheetObj, rowNo, colsNo, testResult, errorInfo=None, picPath
             # 在测试步骤中，写入异常截图路径
             excelObj.writeCell(sheetObj, content=picPath, rowNo=rowNo, colsNo=testStep_errorPic)
     except Exception as e:
-        print("写Excel出错, %s" % traceback.format_exc())
+        logging.info("写Excel出错, %s" % traceback.format_exc())
 
 
 def TestErpApprovalflow():
-    print("关键字驱动测试开始....")
+    logging.info("关键字驱动测试开始....")
     try:
         # 根据Excel文件中sheet名称获取此sheet对象
         caseSheet = excelObj.getSheetByName("测试用例")
@@ -79,8 +83,8 @@ def TestErpApprovalflow():
                 # 获取步骤sheet中步骤数
                 stepNum = excelObj.getRowsNumber(stepSheet)
 
-                print("开始执行用例%s" % caseRow[testCase_testCaseName-1].value)
-                print("测试用例共%s步:" % (stepNum - 1))
+                logging.info("开始执行用例%s" % caseRow[testCase_testCaseName-1].value)
+                logging.info("测试用例共%s步:" % (stepNum - 1))
                 for step in xrange(2, stepNum + 1):
                     # 因为步骤sheet中第一行为标题行，无须执行
                     # 获取步骤sheet中第step行对象
@@ -97,7 +101,7 @@ def TestErpApprovalflow():
                     # 将操作值为数字类型的数据转换成字符串类型，方便字符串拼接
                     if isinstance(operateValue, long):
                         operateValue = str(operateValue)
-                    # print(keyWord, locationType, locatorExpression, operateValue)
+                    # logging.info(keyWord, locationType, locatorExpression, operateValue)
 
                     expressionStr = ""
 
@@ -117,7 +121,7 @@ def TestErpApprovalflow():
                         expressionStr = keyWord.strip() + \
                             "('"+ locationType.strip() + "','" + \
                             locatorExpression.replace("'", '"').strip() + "')"
-                    print(expressionStr)
+                    logging.info(expressionStr)
                     try:
                         # 通过eval函数，将拼接的页面动作函数调用的字符串表示
                         # 当成有效的Python表达式执行，从而执行测试步骤的sheet中
@@ -138,13 +142,13 @@ def TestErpApprovalflow():
                         )
 
                         failfulSteps += 1
-                        print("步骤%s执行失败!" % stepRow[testStep_testStepDescribe -1].value)
+                        logging.info("步骤%s执行失败!" % stepRow[testStep_testStepDescribe -1].value)
                     else:
                         # 在测试步骤sheet中写入成功信息
                         writeTestResult(stepSheet, step, "caseStep", "Pass")
                         # 每成功一步，successfulSteps变量自增1
                         successfulSteps += 1
-                        print("步骤%s执行通过！" % stepRow[testStep_testStepDescribe - 1].value)
+                        logging.info("步骤%s执行通过！" % stepRow[testStep_testStepDescribe - 1].value)
             if successfulSteps == stepNum - 1:
                 # 当测试用例步骤sheet中所有的步骤都执行成功，方认为此测试用例执行通过，然后将成功信息
                 # 写入测试用例工作表中，否则写入失败信息
@@ -152,11 +156,7 @@ def TestErpApprovalflow():
                 successfulCase += 1
             else:
                 writeTestResult(caseSheet, idx + 2, "testCase", "Faild")
-        print('"共%d条用例,%d条需要被执行，本次执行通过%d条,本次执行通过的步骤数%d步,本次执行失败的步骤数%d步."' % (len(isExecuteColumn)-1, requiredCase, successfulCase, successfulSteps, failfulSteps))
+        logging.info('"共%d条用例,%d条需要被执行，本次执行通过%d条,本次执行通过的步骤数%d步,本次执行失败的步骤数%d步."' % (len(isExecuteColumn)-1, requiredCase, successfulCase, successfulSteps, failfulSteps))
     except Exception as e:
         # 打印详细的异常堆栈信息
-        print(traceback.print_exc())
-
-
-if __name__ == '__main__':
-    TestErpApprovalflow()
+        logging.info(traceback.logging.info_exc())
